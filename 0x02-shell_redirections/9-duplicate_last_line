@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
-tail -n 1 iacta | cat >> iacta
-=======
-#!/bin/bash 
-tail -n l iacta | cat >> iacta
->>>>>>> 6c84810b278156fa82238ec52754d376a21206d3
+tail -n 1 iacta | cat > iacta

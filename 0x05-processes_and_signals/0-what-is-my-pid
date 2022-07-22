@@ -1,0 +1,4 @@
+#!/usr/bin/env
+# This script displays it's PID
+
+echo $$
